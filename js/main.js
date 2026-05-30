@@ -1,5 +1,5 @@
 /**
- * Rapid Locksmiths — Mid2 Template (Drill-inspired) — Plumber variant
+ * Rapid Locksmiths — Mid2 Template (Drill-inspired) — Locksmith variant
  * main.js — Side panel nav, sticky header shadow, smooth scroll,
  * stats counter, scroll fade-in, contact form validation
  */
